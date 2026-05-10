@@ -3,13 +3,12 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-orange.svg)
-
+```text
 **[TR]** APK-MASTER, Android uygulama geliştiricileri ve mod geliştiricileri için tasarlanmış, hepsi bir arada (all-in-one) bir APK düzenleme ve optimizasyon merkezidir.
 
 **[EN]** APK-MASTER is an all-in-one APK editing and optimization hub designed for Android application developers and modders.
-
+```
 ---
-
 ## 🇹🇷 Türkçe Tanıtım
 ```text
 ### ✨ Özellikler
