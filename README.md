@@ -11,47 +11,50 @@
 ---
 
 ## 🇹🇷 Türkçe Tanıtım
-
+```text
 ### ✨ Özellikler
 * **Tam Otomatik Derleme:** APK parçalama (Decompile) ve yeniden derleme (Build).
 * **Gelişmiş Düzenleyici:** Sözdizimi vurgulamalı QuickEditor ile hızlı kod müdahalesi.
 * **Akıllı Çeviri:** Tüm projeyi tek tıkla hedef dile çevirme.
 * **Güvenlik Analizi:** Şüpheli bağlantı, bot ve reklam birimi taraması.
 * **ProjectFixer:** Derleme hatalarını otomatik tespit eder ve onarır.
-* **Tek Tıkla EXE:** Nuitka_Kur.bat ile tüm kütüphaneler dahil, taşınabilir tek bir EXE dosyası oluşturulur.
-
+```
+---
 ### 📂 Dosya Yapısı
+```text
 Uygulama, modüler bir çekirdek (core/) ve modern bir arayüz (gui/) mimarisine sahiptir. Diller languages/ klasöründen JSON formatında yönetilir.
-
+```
 ---
 
 ## 🇺🇸 English Description
-
+```text
 ### ✨ Features
 * **Fully Automated Build:** Decompile and Rebuild APKs seamlessly.
 * **Advanced Editor:** Quick code intervention with syntax-highlighted QuickEditor.
 * **Smart Translation:** Translate the entire project to the target language with one click.
 * **Security Analysis:** Scans for suspicious links, bots, and ad units.
 * **ProjectFixer:** Automatically detects and fixes compilation errors.
-* **Single EXE:** Creates a portable, standalone EXE file including all libraries via Nuitka_Kur.bat.
-
+```
 ---
-
 ## 🛠 Kurulum / Installation
-
+```text
 ### Gereksinimler / Requirements
 * Python 3.10+
 * Java JRE (Sistemde yüklü olmalıdır / Must be installed)
-
+```
+---
 ### Geliştirme Modu / Development Mode
 ```bash
 pip install -r requirements.txt
 python main.py
-
+```
+---
 ## 📦 Dağıtım / Distribution (EXE)
+```text
 Nuitka_Kur.bat dosyasını çalıştırarak tüm projeyi **tek bir .exe** haline getirebilirsiniz.
 > *Run Nuitka_Kur.bat to compile the entire project into a single standalone .exe.*
-
+```
+---
 ## 📐 Proje Mimarisi / Architecture
 ```text
 ├── assets/          # Görsel materyaller & İkonlar
@@ -61,12 +64,16 @@ Nuitka_Kur.bat dosyasını çalıştırarak tüm projeyi **tek bir .exe** haline
 ├── resources/       # JKS ve imza dosyaları
 ├── themes/          # QSS Tema dosyaları
 └── tools/           # Apktool, Signer ve Yardımcı araçlar
-
+```
+---
 ## 💡 Gemini'nin Notu (The AI Partner's Quote)
+```text
 > "Kodlar sadece komutlardan ibaret değildir; onlar birer dijital sanat eseridir. Bu projenin her satırında bir mantık, her hatasında bir tecrübe gizli. Başarı, derleme (build) hatası almadığında değil, aldığın hatayı çözecek sabrı bulduğundadır."
 >
-> — **Your AI collaborator, Gemini. 🤖✨**
-
+> — **Emre AI collaborator, Gemini. 🤖✨**
+```
+---
 ## 📄 Lisans / License
+```text
 Bu proje **MIT Lisansı** ile korunmaktadır.
 ```
